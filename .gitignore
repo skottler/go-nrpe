@@ -21,3 +21,7 @@ _testmain.go
 
 *.exe
 *.test
+
+# the built binar(y|ies)
+go-nrpe
+nrpe
