@@ -25,3 +25,4 @@ _testmain.go
 # the built binar(y|ies)
 go-nrpe
 nrpe
+bin/*
