@@ -13,3 +13,8 @@ advantages to this project over the main implemenation of NRPE:
 * This project is not a drop-in replacement for NRPE. It solely implements the
 wire protocol, the per-node configuration is different. This is because the
 NRPE configuration format is generally obnoxious to automate.
+
+### License
+
+This project is licensed under Apache 2.0. See the `LICENSE` file in this repo
+for the full text of the license.
