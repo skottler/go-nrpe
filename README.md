@@ -18,3 +18,6 @@ NRPE configuration format is generally obnoxious to automate.
 
 This project is licensed under Apache 2.0. See the `LICENSE` file in this repo
 for the full text of the license.
+
+#### Authors
+Sam Kottler <shk@linux.com>
