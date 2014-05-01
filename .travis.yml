@@ -1,2 +1,11 @@
 language: go
+
+go:
+  - 1.1
+  - 1.2
+
+matrix:
+  allow_failures:
+    - go: 1.1
+
 script: make && make test
